@@ -1,3 +1,7 @@
 hello git!
 hello giit!
+<<<<<<< HEAD
 what ??
+=======
+hot-fix vim this
+>>>>>>> hot-fix
